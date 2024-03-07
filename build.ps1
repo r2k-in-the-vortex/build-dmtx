@@ -1,10 +1,3 @@
-# build-dmtx
-
-to obtain dmtx.dll in windows run build.ps1
-
-commands:
-
-
 docker build -t ubuntu-build-libdmtx .
 
 $currentpath=$pwd.Path
